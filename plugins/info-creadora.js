@@ -12,7 +12,7 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 
 //------- Nombre
   let nowner = `${wm.split`@`[0]}@s.whatsapp.net`
-  let insta = `https://www.instagram.com/ventas_bot.TheZero`
+  let insta = `https://instagram.com/venta_bot_ludmi?igshid=NzZlODBkYWE4Ng==`
   let teksnomor = `
 • @${wm.split`@`[0]} •
 ------- ${wm} -------
@@ -20,14 +20,14 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
-let teksbio = `TheZero
-*Wa.me/59897463355*
+let teksbio = `ludmi
+*https://wa.me/5493813300744*
 
 Zero Owner 1	
-*Wa.me/59897463355*
+*https://wa.me/5493813300744*
 
 Zero Owner 2
-*Wa.me/59897463355*
+*https://wa.me/5493813300744*
 *---------------------*
 
 THEZERO CONTACTO
