@@ -18,12 +18,12 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「INFORMACION DE THEZEROBOT」
+let str = `╭「INFORMACION DE LUDMIBOT」
 │🛍️ *𝙷𝙾𝙻𝙰 𝚀𝚄𝙴 𝚃𝙰𝙻-${taguser}
-│🛍️ **𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:wa.me/59897463355*
+│🛍️ **𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:https://wa.me/5493813300744*
 │🛍️ *esta es la siguiente información de mis 𝙱ots
 ︎╰───────────────╯
-🛍️᭢━━━━━ZeroBot━━━━᭥🛍️᭢
+🛍️᭢━━━━━LUDMIBot━━━━᭥🛍️᭢
 ╭「𝐏𝐀𝐐𝐔𝐄𝐓𝐄 𝐃𝐄 𝐁𝐎𝐓𝐒 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐀𝐃𝐎𝐑」
 │-𝙿𝙰𝚁𝙰 𝙴𝚂𝚃𝙴 𝙱𝙾𝚃 𝚃𝙴𝙽𝙶𝙾 𝙴𝙻 hacer número bot- 𝙱𝙾𝚃 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻𝙸𝚉𝙰𝙳𝙾- 𝙱𝙾𝚃 𝙿𝚁𝙾𝙿𝙸𝙾𝚂
 │♥️HACER NÚMERO BOT:  Este bot lleva una personalizacion del creador es permanente y no tiene limite de grupos y te enseño a programarlo y aque tu mismo lo pongas en un numero
