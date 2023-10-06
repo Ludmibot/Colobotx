@@ -12,25 +12,25 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['59897463355', 'ZeroBot', true],  
-  ['59897463355', 'Gabi Owner', true],
-  ['59897463355', 'Gabi Owner 2', true],
-  ['59897463355', 'ZeroBot', true],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355']
+  ['5493813300744', 'LudmiBot', true],  
+  ['5493813300744', 'Ludmi Owner', true],
+  ['5493813300744', 'Ludmi Owner 2', true],
+  ['5493813300744', 'ludmibot', true],
+  ['5493813300744'],
+  ['5493813300744'],
+  ['5493813300744'],
+  ['5493813300744'],
+  ['5493813300744'],
+  ['5493813300744'],
+  ['5493813300744'],
+  ['5493813300744'],
+  ['5493813300744']
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['59897463355'] 
+global.prems = ['5493813300744'] 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -102,19 +102,19 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['59897463355', 'ZeroBot', 1], 
-['59897463355', 'ZeroBot', 1],  
-['59897463355', 'ZeroBot', 1],
-['59897463355', 'ZeroBot', 1],
-['59897463355', 'ZeroBot', 1]] 
+['5493813300744', 'LudmiBot', 1], 
+['5493813300744', 'LudmiBot', 1],  
+['5493813300744', 'LudmiBot', 1],
+['5493813300744', 'LudmiBot', 1],
+['5493813300744', 'LudmiBot', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = 'ZeroBot'
-global.author = 'ZeroBot'
+global.packname = 'LudmiBot'
+global.author = 'LudmiBot'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -122,25 +122,25 @@ global.vs = '1.4.9'
 global.vsJB = '2.0'
 
 global.gt = 'ZeroBot'
-global.yt = 'https://www.instagram.com/ventas_bot.thezero'
-global.yt2 = 'https://www.instagram.com/ventas_bot.thezero'
-global.ig = 'https://www.instagram.com/ventas_bot.thezero'
-global.md = 'https://www.instagram.com/ventas_bot.thezero'
-global.fb = 'https://www.instagram.com/ventas_bot.thezero'
+global.yt = 'https://instagram.com/venta_bot_ludmi'
+global.yt2 = 'https://instagram.com/venta_bot_ludmi'
+global.ig = 'https://instagram.com/venta_bot_ludmi'
+global.md = 'https://instagram.com/venta_bot_ludmi'
+global.fb = 'https://instagram.com/venta_bot_ludmi'
 
-global.nna = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Help
-global.nn = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 9 COL
+global.nna = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Help
+global.nn = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/KplNwBCxn7B4mvDtk4X31x' //Grupo 9 COL
 global.paypal = 'https://paypal.me/Emersonbot'
-global.asistencia = 'Wa.me/59897463355' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/5493813300744' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
